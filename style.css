@@ -338,7 +338,7 @@ place-items: center;
 
     .skill{
         width:80%;
-        padding: 50px;
+        padding: 30px;
        
     }
     .totalSkill{
@@ -360,6 +360,10 @@ place-items: center;
     @media screen and (min-width: 839px) {
     .mobile-container{
         display: none;
+    }
+
+    .topnav{
+      display: none;
     }
 }
 
@@ -458,6 +462,7 @@ font-family: 'Open Sans Condensed', sans-serif;
                   border: none;
                   font-family: 'Open Sans Condensed', sans-serif;
                         }
+                        
                         .Dawerha{
                           font-family: 'Open Sans Condensed', sans-serif;
                           background-color:#DCDCDC;
